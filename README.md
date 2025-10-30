@@ -30,10 +30,13 @@ npm i                               #run di cmd setelah berada di file directory
 npx prisma migrate dev --name init  #run di cmd
 node src/seed.js                    #run di cmd
 npm run dev                         #run di cmd
-
+```
 
 ### 2️⃣ Frontend
 ```bash
-cd ../frontend                      #sesuai lokasi file directory
+cd frontend                         #sesuai lokasi file directory
 npm i                               #run di cmd setelah berada di file directory
 npm run dev                         #run di cmd
+```
+## Demo Video
+Watch the demo here: [User Appointment System Demo] (https://drive.google.com/file/d/19wyJIncL85lh_jCJXCA6FLg9G-zNmQBw/view?usp=drive_link)

@@ -1,7 +1,7 @@
 # User Appointment Management System
 
 **Name:** Bangga Sagala  
-**Position:** Technical Test – PT Sari Tirta Group  
+**Position:** Technical Test For IT Programmer Intern  
 **Date:** 30 October 2025  
 
 ---
